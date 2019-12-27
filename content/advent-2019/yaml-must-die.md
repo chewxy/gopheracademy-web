@@ -12,6 +12,12 @@ With the light in my eyes and the excitement of being on stage in front of 300+ 
 Like the democrats a two thirds majority is a pipe dream and the real question is what are the viable alternatives.
 <!-- It retrospect and watching the video it was probably more like 20. -->
 
+So why might I being calling for the death of YAML?
+Well I am not the only person picking on YAML.
+For specific technical nitt-picking see [NOYAML](https://noyaml.com/).
+The truth is I'm taking a brough-side at all of software engineering.
+The bumpster fire known as DevOps is just a current and topical softspot.
+Blah blah blah ... fundamental theory of computation ... blah blah blah
 
 Yaml isn’t going anywhere in a hurry, it is just too easy and seductive to conjure up something and defer validation and semantics to later.
 But the piper always comes calling and the price needs to be paid.
